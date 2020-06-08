@@ -20,6 +20,5 @@ int main()
         if(ab) cout << "Prime" << endl;
         else cout << "Not Prime" << endl;
     }
-
     return 0;
 }
